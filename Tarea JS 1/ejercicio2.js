@@ -21,6 +21,6 @@ function comparar(array1, array2) {
 Array1= ['rojo', 'azul', 'amarillo'];
 Array2= ['blanco', 'negro', 'rojo'];
 
-console.log(comparar(Array1,Array2));
+//console.log(comparar(Array1,Array2));
 
 
