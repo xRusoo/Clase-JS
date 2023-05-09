@@ -6,4 +6,4 @@ function imprimirNumeros(numero){
     }
 }
 
-imprimirNumeros(10);
+//imprimirNumeros(10);
